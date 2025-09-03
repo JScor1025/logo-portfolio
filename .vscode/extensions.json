@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ms-vscode.vscode-css-peek",
+    "bradlc.vscode-tailwindcss",
+    "formulahendry.auto-rename-tag",
+    "ms-vscode.vscode-json",
+    "esbenp.prettier-vscode"
+  ]
+}
